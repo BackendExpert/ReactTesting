@@ -16,15 +16,15 @@ const IconTest = () => {
     <div>
         <h1>IconTest</h1>
         <ZeroNumberFill color={"black"} size={150}/>
-        <ZeroNumberFill color={"black"} size={150}/>
-        <ZeroNumberFill color={"black"} size={150}/>
-        <ZeroNumberFill color={"black"} size={150}/>
-        <ZeroNumberFill color={"black"} size={150}/>
-        <ZeroNumberFill color={"black"} size={150}/>
-        <ZeroNumberFill color={"black"} size={150}/>
-        <ZeroNumberFill color={"black"} size={150}/>
-        <ZeroNumberFill color={"black"} size={150}/>
-        <ZeroNumberFill color={"black"} size={150}/>
+        <ZeroNumberSqureFill color={"black"} size={150}/>
+        <OneNumberFill color={"black"} size={150}/>
+        <OneNumberSqureFill color={"black"} size={150}/>
+        <OneTwoThree color={"black"} size={150}/>
+        <ZeroNumberOutLine color={"black"} size={150}/>
+        <ZeroNumberSqureOutLine color={"black"} size={150}/>
+        <OneNumberOutline color={"black"} size={150}/>
+        <OneNumberSqureOutLine color={"black"} size={150}/>
+
     </div>
   )
 }
