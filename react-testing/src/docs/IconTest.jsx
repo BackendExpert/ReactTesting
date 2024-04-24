@@ -8,7 +8,13 @@ import {
      ZeroNumberOutLine, 
      ZeroNumberSqureOutLine,
      OneNumberOutline,
-     OneNumberSqureOutLine
+     OneNumberSqureOutLine,
+
+     LogoAlexa,
+     LogoAlipay,
+     LogoAmazon,
+     LogoAmd
+
 } from 'react-icons';
 
 const IconTest = () => {
@@ -24,6 +30,12 @@ const IconTest = () => {
         <ZeroNumberSqureOutLine color={"orange"} size={150}/>
         <OneNumberOutline color={"yellow"} size={150}/>
         <OneNumberSqureOutLine color={"blue"} size={150}/>
+
+        <h1>Logos</h1>
+        <LogoAlexa color={"blue"} size={150}/>
+        <LogoAlipay color={"blue"} size={150}/>
+        <LogoAmazon color={"blue"} size={150}/>
+        <LogoAmd color={"blue"} size={150}/>
 
     </div>
   )
