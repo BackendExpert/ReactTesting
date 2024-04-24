@@ -22,13 +22,8 @@ const IconTest = () => {
     <div>
         <h1>IconTest</h1>
 
+        <LogoAmd color={"red"} size={200} />
 
-
-        <h1>Logos</h1>
-        <LogoAlexa color={"blue"} size={150}/>
-        <LogoAlipay color={"blue"} size={150}/>
-        <LogoAmazon color={"blue"} size={150}/>
-        <LogoAmd color={"blue"} size={150}/>
 
     </div>
   )
