@@ -10,10 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@jehankandy/jkreact-icons": "^1.0.0",
     "@jehankandy/react-jkcss": "^1.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-icons": "file:react-icons-1.0.0.tgz",
     "react-router-dom": "^6.23.0"
   },
   "devDependencies": {
